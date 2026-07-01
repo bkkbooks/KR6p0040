@@ -1,0 +1,158 @@
+canonical_identifier: bkk:krp/KR6p0040/T/v1
+canonical_location: https://kanripo.org/bkk/KR6p0040/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨土十疑論
+  identifiers:
+    krp: KR6p0040
+    cbeta: T47n1961
+    cbeta_old_id: T47n1961
+    authorityid: CA0001853
+    json_key: T1961
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1961.xml
+    old_id: T47n1961
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0040_000-T.yaml, hash: 'sha256:5c3f1a8bc2c05f20af02b3472bee179d8987f004cdb491454cd935fde841e666'}
+  - {seq: 1, filename: KR6p0040_001-T.yaml, hash: 'sha256:31dd9cf867705c26d22fa75f3d3bb62f85672ab8b5c9537683763e476712de8d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0040_000-T.markers.yaml, hash: 'sha256:bb41ad8572d50cda4201c33e735a117f36b7df344408481e072e780863467ca6'}
+  - {seq: 1, role: markers, filename: assets/KR6p0040_001-T.markers.yaml, hash: 'sha256:90367209aec49284bf58df96d995a20f2430002b837bbe298b0521e3ac9142e9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0040_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 淨土十疑論序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5842
+  label: 淨土十疑論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 第一疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-2
+    span:
+    - body
+    - 567
+    - 567
+  label: 第二疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-3
+    span:
+    - body
+    - 1048
+    - 1048
+  label: 第三疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-4
+    span:
+    - body
+    - 1418
+    - 1418
+  label: 第四疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-5
+    span:
+    - body
+    - 1790
+    - 1790
+  label: 第五疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-6
+    span:
+    - body
+    - 2389
+    - 2389
+  label: 第六疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-7
+    span:
+    - body
+    - 2594
+    - 2594
+  label: 第七疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-8
+    span:
+    - body
+    - 3198
+    - 3198
+  label: 第八疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-9
+    span:
+    - body
+    - 3836
+    - 3836
+  label: 第九疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-10
+    span:
+    - body
+    - 4224
+    - 4224
+  label: 第十疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0040_T_001-mulu-11
+    span:
+    - body
+    - 5296
+    - 5296
+  label: 淨土十疑論後序
+  type: mulu
+  level: 1
+hash: sha256:ca6e85fa8d53ec8db72e1189b822027948016276830949f54e1368a68f656950
