@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6p0040_000.yaml, hash: 'sha256:a56ea79897ce1c5366b915fdd47c2fb63ca50e057485b4e3c23b18e45e770c74'}
-  - {seq: 1, filename: KR6p0040_001.yaml, hash: 'sha256:092593741741d78716d5e7fa224befb522dc7f79fdc1cce740a34d92d1277225'}
+  - {seq: 0, filename: KR6p0040_000.yaml, hash: 'sha256:5c3f1a8bc2c05f20af02b3472bee179d8987f004cdb491454cd935fde841e666'}
+  - {seq: 1, filename: KR6p0040_001.yaml, hash: 'sha256:31dd9cf867705c26d22fa75f3d3bb62f85672ab8b5c9537683763e476712de8d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0040_000.markers.yaml, hash: 'sha256:72a706d904f4a1e27d823524bcfd4839c15e4b8a16caa81c28ed853448ed41c8'}
-  - {seq: 1, role: markers, filename: assets/KR6p0040_001.markers.yaml, hash: 'sha256:e5ee5a3dece681e60d4175418534b1fd61fec1868a916d2f33aa80459eba429f'}
+  - {seq: 0, role: markers, filename: assets/KR6p0040_000.markers.yaml, hash: 'sha256:05337dcb4b991a19f81c2ce5da18c4fa7ebc8c26d1f16291737a0b569d520398'}
+  - {seq: 1, role: markers, filename: assets/KR6p0040_001.markers.yaml, hash: 'sha256:1799dc81219dc24c96050853dd0edd7dfdcc1f0cdfba9c7361ae814ac4ac1944'}
 table_of_contents:
 - ref:
     seq: 0
@@ -160,7 +160,4 @@ table_of_contents:
   label: 淨土十疑論後序
   type: mulu
   level: 1
-hash: sha256:2f9460ee72aa82c6ec27c91efd48609f177762fb110d8b39d69f55bd4c89f011
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:116b5c3f55532cd3ac867132a78918b2ee15639c379c44e80bbf6684d1fc6c8b
