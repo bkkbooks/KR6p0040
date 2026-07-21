@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6p0040_000.yaml, hash: 'sha256:4b9fdea89838af866429ff16bae93ddd75306ee1c7b468c8685db6621b3801ff'}
+  - {seq: 0, filename: KR6p0040_000.yaml, hash: 'sha256:8513b9b01978755f15f0084aff2c44bdf08725342ac3a348be24cd9c8d80fa89'}
   - {seq: 1, filename: KR6p0040_001.yaml, hash: 'sha256:55a78298266da9372d37a45a0652d2cafacae5766279cef2e962e5952a29e80e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0040_000.markers.yaml, hash: 'sha256:a7310087b663b53ad15b436fddf442418803ac51788168fd9530a645a7982c14'}
+  - {seq: 0, role: markers, filename: assets/KR6p0040_000.markers.yaml, hash: 'sha256:0fb89673f47f5bb33d31e9da9ee60c77e25e4fe2122db2623a13f359510636df'}
   - {seq: 1, role: markers, filename: assets/KR6p0040_001.markers.yaml, hash: 'sha256:6341b518820812d181b584ca0bc0b695f648ee29a1442e4668d320ecc0e650b3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0040_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 淨土十疑論序
@@ -160,7 +160,7 @@ table_of_contents:
   label: 淨土十疑論後序
   type: mulu
   level: 1
-hash: sha256:663fbcc2d546be83680f82311be8bddb71fa620e4043ba691f836070189334e9
+hash: sha256:d342ba027498c950823313d88dafe28ef9d21d6aba4d050d980d26ef3e337460
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
